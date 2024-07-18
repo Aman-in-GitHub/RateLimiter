@@ -8,7 +8,7 @@ A rate limiter built in Elixir using the [:ets](https://www.erlang.org/doc/apps/
 - Clone this Git repository: `git clone https://github.com/Aman-in-GitHub/RateLimiter`
 - Change into the project directory: `cd RateLimiter`
 - Run `mix deps.get` to install dependencies
-- Run `mix` to start your RateLimiter
+- Run `mix run --no-halt` to start your RateLimiter
 
 ## Features
 
