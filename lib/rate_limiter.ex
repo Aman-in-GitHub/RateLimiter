@@ -4,6 +4,8 @@ defmodule RateLimiter do
   """
 
   def init() do
-    :ok
+    IO.puts("-------------------------")
+    IO.puts("Welcome to RateLimiter 🚧")
+    IO.puts("-------------------------")
   end
 end
